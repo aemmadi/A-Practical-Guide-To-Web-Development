@@ -66,6 +66,8 @@ Always the very first thing to learn
 - Articles
   - [Learn HTML In 5 Minutes](https://medium.freecodecamp.org/learn-html-in-5-minutes-ccd378d2ab72)
   - [Learn CSS Flexbox In 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34)
+- Books
+  - [HTML & CSS: Design and Build Web Sites](https://www.barnesandnoble.com/p/html-css-jon-duckett/1110769868/2684039025388)
 
 ### Responsive Layout
 Responsive layouts are no longer a luxury, they are a necessity
@@ -119,4 +121,71 @@ Learn to deploy a static website
   - [How to Deploy a Static Website to Heroku](https://medium.com/@adityaniloi/how-to-deploy-a-static-website-to-heroku-49d55e07cb94)
   - [How to host static website on firebase hosting for free](https://medium.com/@aleemuddin13/how-to-host-static-website-on-firebase-hosting-for-free-9de8917bebf2)
 
-8:11
+## Better CSS
+
+### Sass Pre-Processor
+Not mandatory but recommended. It is easy enough to learn the basics
+
+**What to be proficient in**:
+- Structured CSS
+- Variables
+- Nested CSS
+- Mixins & Functions
+- Inheritance
+
+**Resources**:
+- Youtube Videos
+  - [Responsive Portfolio Website Series](https://www.youtube.com/watch?v=gYzHS-n2gqU&list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU)
+  - [Fancy Form UI From Scratch](https://www.youtube.com/watch?v=AiTdhLc8JCo)
+  - [Sass Workflow With Gulp](https://www.youtube.com/watch?v=rmXVmfx3rNo)
+- Articles
+  - [Getting Started With Sass](https://medium.com/@thejasonfile/getting-started-with-sass-dedb271bdf5a)
+  - [Intro To Sass](https://codeburst.io/intro-to-sass-386eb8f2e005)
+  - [Learn Sass In 15 Minutes](https://tutorialzine.com/2016/01/learn-sass-in-15-minutes)
+
+## Get Dynamic
+
+### Vanilla JavaScript
+Start learning JavaScript **without** any library or framework
+
+**What to be proficient in**:
+- Data Types, Functions, Conditionals, Loops, Operators
+- DOM Manipulation & Events
+- JSON
+- Fetch API
+- ES6+ (Arrow Functions, Promises, Async/Await, Destructuring)
+
+**Resources**:
+- Youtube Videos
+  - [JavaScript Fundamentals For Beginners](https://www.youtube.com/watch?v=vEROU2XtPR8)
+  - [JavaScript DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+  - [Vanilla JavaScript Projects Playlist](https://www.youtube.com/watch?v=vEROU2XtPR8&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+- Udemy Courses
+  - [Modern JavaScript From The Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/)
+  - [JavaScript: Understanding The Weird Parts](https://www.udemy.com/understand-javascript/)
+  - [JavaScript Basics For Beginners](https://www.udemy.com/javascript-basics-for-beginners/)
+- Articles
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [JavaScript.info](https://javascript.info/)
+  - [Learn Vanilla JavaScript From Tutorials](https://medium.mybridge.co/learn-plain-javascript-from-top-tutorials-for-the-past-year-v-2018-d964bc597a45)
+- Books
+  - [JavaScript for Kids: A Playful Introduction to Programming](https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/1593274084/)
+  - [Eloquent JavaScript, A Modern Introduction to Programming](https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/)
+  - [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/)
+  - [JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527)
+- Practice
+  - [JavaScript30](https://javascript30.com/)
+
+## You're Skill Set
+
+### Basic Front-End Web Developer
+At this point, if successfully learnt and practiced the above technologies, it is possible to find an entry level job, **but** you are most likely going to need to know more.
+*Freelancing is a possibility...*
+
+**You Should Be Able To**:
+- Build Static Websites (Small Business, Informational)
+- Build UI Layouts (Take a design and create the HTML/CSS)
+- Add Dynamic Functionality (Modals, Slideshows, etc)
+- Deploy and Mantain Wesbites
+
+11:32
