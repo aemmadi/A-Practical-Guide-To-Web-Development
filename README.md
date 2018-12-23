@@ -11,6 +11,9 @@
   - [Medium](https://medium.com/)
 - Curriculum-like Learning
   - [FreeCodeCamp](https://www.freecodecamp.org/)
+- Reddit
+  - [r/learnprogramming](https://reddit.com/r/learnprogramming)
+  - [r/webdev](https://reddit.com/r/webdev)
 - Practice
   - [HackerRank](https://www.hackerrank.com/)
   - [CodeWars](https://www.codewars.com/)
@@ -188,4 +191,62 @@ At this point, if successfully learnt and practiced the above technologies, it i
 - Add Dynamic Functionality (Modals, Slideshows, etc)
 - Deploy and Mantain Wesbites
 
-11:32
+## Now What?
+
+### What To Learn Next
+What to do next depends on what you want to do. You have a few choices
+
+- HTML/CSS Framework
+- Git & Tooling
+- Front End JS Framework
+- Server Side Language & Database
+
+## Easier UI's & Prototyping
+
+### HTML/CSS Framework (Choose One)
+HTML/CSS frameworks are becoming a bit less relevant but I will suggest learning one. They can make your life much easier and great for prototyping.
+
+- [Bootstrap](https://getbootstrap.com/)
+- [Materialize](https://materializecss.com/)
+- [Bulma](https://bulma.io/)
+
+**Resources**:
+- Youtube Videos
+  - [Bootstrap Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+  - [Materialize Crash Course](https://www.youtube.com/watch?v=nqT8c5OFjEQ)
+  - [Bulma Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg)
+- Articles
+  - [Learn The Bootstrap Grid In 15 Minutes](https://tutorialzine.com/2015/10/learn-the-bootstrap-grid-in-15-minutes)
+  - [Materialize Tutorial](https://www.tutorialspoint.com/materialize/)
+  - [Let’s Code Our Portfolio — A Practical Approach To MaterializeCSS](https://codeburst.io/lets-code-our-portfolio-a-practical-approach-to-materializecss-61adfb17e308)
+  - [Learn Bulma In 5 Minutes](https://medium.freecodecamp.org/learn-bulma-in-5-minutes-ec5188c53e83)
+- Scrimba
+  - [Learn Bootstrap 4 For Free](https://scrimba.com/g/gbootstrap4)
+  - [Learn Bulma CSS For Free](https://scrimba.com/g/gbulma)
+- Udemy
+  - [Bootsrap 4 From Scratch](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/)
+  - [Materialize CSS From Scratch](https://www.udemy.com/materialize-css-from-scratch-with-5-projects/)
+
+## Your Workflow
+
+### Git & Tooling
+Git is absolutely necessary for all web developers. Here are some other tooling suggestions
+
+- [Basic Command Line](###Basic-Software-&-Tools) (Used for so much including these tools)
+- [Git](https://git-scm.com/)
+- [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/en/) (Installing packages)
+- [Webpack](https://webpack.js.org/) or [Parcel](https://parceljs.org/) (Module bundling)
+- [Gulp](https://gulpjs.com/) or [Grunt](https://gruntjs.com/) (Task runners)
+- Editor Extensions (ESLint, Prettier, Live-Server, etc...)
+
+**Resources**:
+- Youtube Videos
+  - [Linux Command Line Basics](https://www.youtube.com/watch?v=cBokz0LTizk)
+  - [Git Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+  - [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
+  - [Yarn Crash Course](https://www.youtube.com/watch?v=g9_6KmiBISk)
+  - [Webpack Crash Course](https://www.youtube.com/watch?v=lziuNMk_8eQ)
+  - [Gulp Crash Course](https://www.youtube.com/watch?v=1rw9MfIleEg)
+  - [VSCode Setup](https://www.youtube.com/watch?v=fnPhJHN0jTE)
+
+  13:29
