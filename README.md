@@ -249,4 +249,196 @@ Git is absolutely necessary for all web developers. Here are some other tooling 
   - [Gulp Crash Course](https://www.youtube.com/watch?v=1rw9MfIleEg)
   - [VSCode Setup](https://www.youtube.com/watch?v=fnPhJHN0jTE)
 
-  13:29
+## JavaScript
+
+### Front-End Framework
+It is becoming a necessity to learn a JS front-end framework
+
+- Very popular in the industry
+- More interactive & intersting UIs
+- Components & modular front end code
+- Good for teams
+
+**Most Common Front-End Frameworks**:
+- [React](https://reactjs.org/) - Most popular in the industry
+- [Vue](https://vuejs.org/) - Easy to use and really gaining traction
+- [Angular](https://angular.io/) - Fading a bit, used in enterprise
+
+**Resources**:
+- Youtube Videos
+  - [React Crash Course](https://www.youtube.com/watch?v=A71aqufiNtQ)
+  - [Vue.js In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y)
+  - [Angular In 60 Minutes](https://www.youtube.com/watch?v=KhzGSHNhnbI)
+- Articles
+  - [How to Learn React — A roadmap from beginner to advanced](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
+- Scrimba
+  - [Learn Vue.js for free](https://scrimba.com/g/glearnvuev)
+- Udemy Courses
+  - [React - Front to Back](https://www.udemy.com/react-front-to-back/)
+  - [Angular - Front to Back](https://www.udemy.com/angular-4-front-to-back/)
+
+### State Management
+For larger apps with a framework, you may need to learn methods to manage app-level state
+
+- [Redux](https://redux.js.org/), [Context API](https://hackernoon.com/how-do-i-use-react-context-3eeb879169a2)
+- [Apollo](https://www.apollographql.com/) (GraphQL Client)
+- [VueX](https://vuex.vuejs.org/)
+- [NgRx](https://ngrx.io/)
+
+**What to be proficient in**:
+- Immutable State
+- Stores
+- Reducers
+- Mutations
+- Getters
+- Actions
+- Observables
+
+**Resources**:
+- Youtube Videos
+  - [Redux Crash Course](https://www.youtube.com/watch?v=93p3LxR9xfM)
+  - [React & Context API Project](https://www.youtube.com/watch?v=NDEt0KdDbhk&list=PLillGF-RfqbaxgxkKgKk1XlJAVCX31xRI)
+- Udemy Courses
+  - [Modern React with Redux](https://www.udemy.com/react-redux/)
+  - [MERN Stack - Front to Back](https://www.udemy.com/mern-stack-front-to-back/)
+
+## You're Skill Set
+
+### Full Fledged Front-End Web Developer
+At this point, you should be able to get a front-end job or work for yourseld and do pretty well
+
+**You Should Be Able To**:
+- Build incredible front-end applications
+- Smoot & steady front-end workflow
+- Work well with teams & familiar with Git
+- Connect to backend API's & work with data
+
+## Backend Programming
+
+### Server Side Language (Choose One)
+To be a full stack or software engineer, you will need to learn a server-side language/technology
+
+- [Node.js]()
+- [Python]()
+- [PHP]()
+- [C#]()
+- [Go]()
+
+**What To Be Proficient In**:
+- Fundamental Syntax
+- Structure & Workflow
+- Package Management
+- HTTP / Routing
+
+**Resources**:
+- Youtube Videos
+  - [Node.js For Beginners](https://www.youtube.com/watch?v=U8XF6AFGqlc)
+  - [Python For Beginners](https://www.youtube.com/watch?v=JJmcL1N2KQs)
+  - [PHP - Front to Back](https://www.youtube.com/watch?v=oJbfyzaA2QA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+  - [C# Application in 60 Minutes](https://www.youtube.com/watch?v=GcFJjpMFJvI)
+  - [Go Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
+- Udemy Courses
+  - [Node.js Dev To Deployment](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/)
+  - [PHP MVC Object Oriented](https://www.udemy.com/object-oriented-php-mvc/)
+  - [Python Django Dev To Deployment](https://www.udemy.com/python-django-dev-to-deployment/)
+
+### Server Side Framework (Choose One)
+Do not reinvent the wheel. Learn a framework to build better and faster
+
+- **Node.js**: 
+  - [Express](https://expressjs.com/)
+  - [Koa](https://koajs.com/)
+  - [Adonis](https://adonisjs.com/)
+- **Python**: 
+  - [Django](https://www.djangoproject.com/)
+  - [Flask](http://flask.pocoo.org/)
+- **PHP**: 
+  - [Laravel](https://laravel.com/)
+  - [Symfony](https://symfony.com/)
+- **C#**: 
+  - [ASP.NET](https://www.asp.net/)
+
+**Resources**:
+- Youtube Videos
+  - [Express Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs)
+  - [Koa Crash Course](https://www.youtube.com/watch?v=z84uTk5zmak)
+  - [Getting Started With Adonis](https://www.youtube.com/watch?v=2oXpBK2iNQU&list=PLillGF-RfqbY6wY9yZjCpSMzvhn-icuG6)
+  - [Django Crash Course](https://www.youtube.com/watch?v=D6esTdOLXh4)
+  - [Flask From Scratch](https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_)
+  - [Laravel From Scratch](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
+  - [Up & Running With Symfony](https://www.youtube.com/watch?v=t5ZedKnWX9E&list=PLillGF-Rfqba-PQBBEf14-fi6LafvvDYS)
+
+### Database (Choose One or Two)
+Most applications will use some kind of database. There are different types, here are some options...
+
+- **Relational Database**:
+  - [MySQL](https://www.mysql.com/)
+  - [PostgreSQL](https://www.postgresql.org/)
+  - [MS SQL](https://www.microsoft.com/en-us/sql-server/default.aspx)
+- **NoSQL**:
+  - [MongoDB](https://www.mongodb.com/)
+  - [Couchbase](https://www.couchbase.com/)
+- **Cloud**:
+  - [Firebase](https://firebase.google.com/)
+  - [Amazon Web Services (AWS)](https://aws.amazon.com/)
+  - [Azure DocumentDB](https://azure.microsoft.com/en-us/services/cosmos-db/)
+- **Lightweight**:
+  - [SQLite](https://www.sqlite.org/)
+  - [NeDB](https://github.com/louischatriot/nedb)
+  - [Redis](https://redis.io/)
+
+**Resources**:
+- Youtube Videos
+  - [SQL Crash Course](https://www.youtube.com/watch?v=nWeW3sCmD2k)
+  - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
+  - [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
+  - [PostgreSQL For Beginners](https://www.youtube.com/watch?v=aUfPf-clLLs)
+  - [Couchbase Training](https://www.youtube.com/playlist?list=PLJUd88mUgNonbFX9AJDZA7KCUItTAvV9f)
+  - [Firebase Beginner's Guide](https://www.youtube.com/watch?v=9kRgVxULbag)
+  - [AWS For Beginners](https://www.youtube.com/watch?v=IT1X42D1KeA)
+  - [Getting Started With Azure DocumentDB](https://www.youtube.com/watch?v=Py4PufHw0u4)
+  - [SQLite Complete Overview](https://www.youtube.com/watch?v=pd-0G0MigUA)
+
+## Full Stack Programming
+
+### Server Rendered Pages
+Frameworks like React, Vue & Angular can also be rendered on the server which can actually make things relatively easier
+
+- [Next.js](https://nextjs.org/) - *React*
+- [Nuxt.js](https://nuxtjs.org/) - *Vue*
+- [Angular Universal](https://angular.io/guide/universal) - *Angular*
+
+**Resources**:
+- Youtube Videos
+  - [Next.js Crash Course](https://www.youtube.com/watch?v=IkOVe40Sy0U)
+  - [Nuxt.js Introduction](https://www.youtube.com/watch?v=nteDXuqBfn0)
+  - [Angular Universal Course](https://www.youtube.com/watch?v=v6CKlV7kGVM&list=PLOa5YIicjJ-WNOPe_ze6_BSP_mBgD_VYY)
+
+## Content Management System (CMS) (Choose One)
+Content Management Systems allow for quick development and give your clients the ability to update their content. May not be a bad idea to pick one up. **Great for freelancers**
+
+- **PHP Based**:
+  - [Wordpress](https://wordpress.com/)
+  - [Drupal](https://www.drupal.org/)
+- **JS Based**:
+  - [Ghost](https://ghost.org/)
+  - [Keystone](https://keystonejs.com/)
+- **Python Based**:
+  - [Mezzazine](http://mezzanine.jupo.org/)
+- **.NET**:
+  - [Piranha](http://piranhacms.org/)
+  - [Orchard CMS](https://orchardproject.net/)
+
+**Resources**:
+- Youtube Videos
+  - [Keystone JS Tutorial](https://www.youtube.com/watch?v=DPXDFeUEk3g)
+  - [Wordpress For Beginners](https://www.youtube.com/watch?v=EXKwAk0j3k8)
+  - [Drupal Beginner Tutorials](https://www.youtube.com/watch?v=-DYSucV1_9w&list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)
+  - [Ghost Tutorials](https://www.youtube.com/playlist?list=PLEAYhfKboZUSDoFrd_F5jCB_jPvBNvotG)
+  - [Intro To Mezzanine CMS](https://www.youtube.com/watch?v=NSdNh_btwGo&list=PLz0tRsmt5kvMLAnrzETcvoQKyinVIJYrd)
+
+### DevOps, Deployment & More
+Learning languages and frameworks is one thing, setting up environments, testing & deploying is another
+
+31:56
+ 
