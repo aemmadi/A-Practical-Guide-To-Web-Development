@@ -1,5 +1,58 @@
 # A Practical Guide: Web Development
 
+This guide is a compilation of resources for full stack web development.
+
+The layout of this guide is borrowed from [Traversy Media's Web Development Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) with additional links to resources. 
+
+>[![Everything Is AWESOME](https://img.youtube.com/vi/UnTQVlqmDQ0/0.jpg)](https://www.youtube.com/watch?v=UnTQVlqmDQ0 "Web Development in 2019: A Practical Guide")
+
+## Table of Contents
+- [General Resources](##General-Resources)
+- [Getting Started](##Getting-Started)
+  - [Basic Software & Tools](###Basic-Software-&-Tools)
+- [The Building Blocks](##The-Building-Blocks)
+  - [HTML & CSS](###HTML-&-CSS)
+  - [Responsive Layout](###Responsive-Layout)
+- [Make It Live](##Make-It-Live)
+  - [Basic Deployment](###Basic-Deployment)
+- [Better CSS](##Better-CSS)
+  - [Sass Pre-Processor](###Sass-Pre-Processor)
+- [Get Dynamic](##Get-Dynamic)
+  - [Vanilla JavaScript](###Vanilla-JavaScript)
+- [You're Skill Set](##You're-Skill-Set)
+  - [Basic Front-End Web Developer](###Basic-Front-End-Web-Developer)
+- [Now What?](##Now-What?)
+  - [What To Learn Next](###What-To-Learn-Next)
+- [Easier UI's & Prototyping](##Easier-UI's-&-Prototyping)
+  - [HTML/CSS Framework (Choose One)](###HTML/CSS-Framework-(Choose-One))
+- [Your Workflow](##Your-Workflow)
+  - [Git & Tooling](###Git-&-Tooling)
+- [JavaScript](##Javascript)
+  - [Front-End Framework](###Front-End-Framework)
+  - [State Management](###State-Management)
+- [You're Skill Set](##You're-Skill-Set-1)
+  - [Full Fledged Front-End Web Developer](###Full-Fledged-Front-End-Web-Developer)
+- [Backend Programming](##Backend-Programming)
+  - [Server Side Language (Choose One)](###Server-Side-Language-(Choose-One))
+  - [Server Side Framework (Choose One)](###Server-Side-Frameword-(Choose-One))
+  - [Database (Choose One or Two)](###Database-(Choose-One-or-Two))
+- [Full Stack Programming](##Full-Stack-Programming)
+  - [Server Rendered Pages](###Server-Rendered-Pages)
+  - [Content Management System (CMS) (Choose One)](###Content-Management-System-(CMS)-(Choose-One))
+  - [DevOps, Deployment & More](###DevOps,-Deployment-&-More)
+- [You're Skill Set](##You're-Skill-Set-2)
+  - [Full Stack Badass](###Full-Stack-Badass)
+- [Beyond The Browser](##Beyond-The-Browser)
+  - [Mobile Development (Choose One)](###Mobile-Development-(Choose-One))
+  - [Desktop Apps With Electron](###Desktop-Apps-With-Electron)
+- [2019 Trends](##2019-Trends)
+  - [GraphQL & Apollo](###GraphQL-&-Apollo)
+  - [TypeScript](###TypeScript)
+  - [Serverless Architecture](###Serverless-Architecture)
+  - [AI & Machine Learning](###AI-&-Machine-Learning)
+  - [Blockchain Technology](###Blockchain-Technology)
+  - [Progrssive Web Apps (PWA)](###Progressive-Web-Apps-(PWA))
+- [Contributing](##Contributing)
 ## General Resources
 - Youtube Channels
   - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
@@ -318,11 +371,11 @@ At this point, you should be able to get a front-end job or work for yourseld an
 ### Server Side Language (Choose One)
 To be a full stack or software engineer, you will need to learn a server-side language/technology
 
-- [Node.js]()
-- [Python]()
-- [PHP]()
-- [C#]()
-- [Go]()
+- [Node.js](https://nodejs.org/)
+- [Python](https://www.python.org/)
+- [PHP](http://www.php.net/)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [Go](https://golang.org/)
 
 **What To Be Proficient In**:
 - Fundamental Syntax
@@ -414,7 +467,7 @@ Frameworks like React, Vue & Angular can also be rendered on the server which ca
   - [Nuxt.js Introduction](https://www.youtube.com/watch?v=nteDXuqBfn0)
   - [Angular Universal Course](https://www.youtube.com/watch?v=v6CKlV7kGVM&list=PLOa5YIicjJ-WNOPe_ze6_BSP_mBgD_VYY)
 
-## Content Management System (CMS) (Choose One)
+### Content Management System (CMS) (Choose One)
 Content Management Systems allow for quick development and give your clients the ability to update their content. May not be a bad idea to pick one up. **Great for freelancers**
 
 - **PHP Based**:
@@ -440,5 +493,164 @@ Content Management Systems allow for quick development and give your clients the
 ### DevOps, Deployment & More
 Learning languages and frameworks is one thing, setting up environments, testing & deploying is another
 
-31:56
- 
+- **Deployment**:
+  - Linux
+  - SSH
+  - [Git](https://gist.github.com/noelboss/3fe13927025b89757f8fb12e9066f2fa)
+  - Server Software ([Nginx](https://www.nginx.com/), [Apache](https://httpd.apache.org/))
+- **Platforms**:
+  - [Digital Ocean](https://www.digitalocean.com/)
+  - [Amazon Web Services (AWS)](https://aws.amazon.com/)
+  - [Heroku](https://www.heroku.com/)
+  - [Azure](https://azure.microsoft.com/en-us/)
+- **Virtualization**:
+  - [Docker](https://www.docker.com/)
+  - [Vagrant](https://www.vagrantup.com/)
+- **Testing**:
+  - Unit
+  - Integration
+  - Functional
+  - System
+
+**Resources**:
+- Youtube Videos
+  - [Getting Started With Docker](https://www.youtube.com/watch?v=Kyx2PsuwomE)
+  - [Vagrant Crash Course](https://www.youtube.com/watch?v=vBreXjkizgo)
+  - [Jest Crash Course - Unit Testing](https://www.youtube.com/watch?v=7r4xVDI2vho)
+  - [Deploy Node App To Server](https://www.youtube.com/watch?v=RE2PLyFqCzE)
+
+## You're Skill Set
+
+### Full Stack Badass
+You are a frigging rockstar!
+
+**You Should Be Able To**:
+- Setup full stack dev environments & workflows
+- Build back-end APIs & micro-services
+- Work with databases
+- Construct full-stack apps (Front-end framework & server)
+- Deploy to the cloud (SSH, Git, Servers, etc)
+
+## Beyond The Browser
+
+### Mobile Development (Choose One)
+There are some frameworks that allow us to create native apps with web technologies
+
+- [React Native](https://facebook.github.io/react-native/) - *Build Native apps with React*
+- [NativeScript](https://www.nativescript.org/) - *Angular, TypeScript, JavaScript*
+- [Ionic](https://ionicframework.com/) - *Hybrid apps with HTML/CSS/JS*
+- [Flutter](https://flutter.io/) - *Mobile SDK for Android & iOS (Uses Dart)*
+- [Xamarin](https://visualstudio.microsoft.com/xamarin/) - *Mobile apps with C#*
+
+**Resources**:
+- Youtube Videos
+  - [React Native Crash Course](https://www.youtube.com/watch?v=mkualZPRZCs)
+  - [Ionic Mobile Framework Series](https://www.youtube.com/watch?v=gHPL_2IsZlI&list=PLillGF-RfqbbtvHn2l1sOSzEJZ6lpcLci)
+  - [NativeScript Step By Step](https://www.youtube.com/watch?v=2JDXnduTlgs&list=PLiKWVuUOQtPbAENdDDnGegQyBM0G4_0Gd)
+  - [Flutter For Beginners](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
+  - [Xamarin For Beginners](https://www.youtube.com/watch?v=IIo1udEHPNI&list=PLsrZV8shpwjN_z6f44P4gXO2L5CoBVFba)
+
+### Desktop Apps With Electron
+Electron is used to build powerful cross-platform desktop applications using JavaScript
+
+- Uses Chromium & Node.js
+- Compatible with Windows, MAC & Linux
+- Crash reporting, debugging & profiling
+
+**Resources**:
+- Youtube Videos
+  - [Intro To Electron](https://www.youtube.com/watch?v=mr9Mtm_TRpw)
+  - [Build An Electron App In 60 Minutes](https://www.youtube.com/watch?v=kN1Czs0m1SU)
+
+## 2019 Trends
+
+### GraphQL & Apollo
+GraphQL is a revolutionary new way to thing about APIs. Query language that is much less rigid than standard REST.
+
+- Ask for only what you want
+- Front & Back end can collaborate more smoothly
+- Writing queries are very easy and similar to JSON
+- Apollo is a client to make requests to a GraphQL server
+- Used with the Gatsby static site generator
+
+**Resources**:
+- Youtube Videos
+  - [Build a GraphQL Server](https://www.youtube.com/watch?v=PEcJxkylcRM&list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
+  - [GraphQL With React & Apollo](https://www.youtube.com/watch?v=SEMTj8w04Z8&list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx)
+
+### TypeScript
+TypeScript is a superset of JS with additional features including static typing
+
+**What To Be Proficient In**:
+- Types for variables, functions, etc
+- Classes
+- Other ES6-like features
+- Used in Angular but can be implements in React & Vue
+
+**Resources**:
+- Youtube Videos
+  - [TypeScript Crash Course](https://www.youtube.com/watch?v=rAy_3SIqT-E)
+
+### Serverless Architecture
+Eliminate the need for creating and managing your own server
+
+- Use 3rd party services to execture "Serverless Functions" ([FaaS](https://docs.openfaas.com/))
+- Examples are [AWS](https://aws.amazon.com/), [Netlify](https://www.netlify.com/) & [Firebase](https://firebase.google.com/)
+- Popular with [Gatsby](https://www.gatsbyjs.org/) static sites
+- Serverless framework - *Toolkit for building serverless apps*
+
+ **Resources**:
+- Youtube Videos
+  - [Serverless Lambda Functions](https://www.youtube.com/watch?v=drJwMlD9Mjo)
+  - [Gatsby Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc)
+
+### AI & Machine Learning
+AI & Machine Learning have been huge in almost every area of programming & technology including web development
+
+- Machine Learning can allow web apps to adapt over time
+- AI has a long way to go but I suspect we will see more of it in web development
+- Used heavily in **Python** but we also have JS libraries like [Tenserflow.js](https://js.tensorflow.org/) and [Brain.js](https://github.com/BrainJS/brain.js)
+
+ **Resources**:
+- Youtube Videos
+  - [Machine Learning With BrainJS](https://www.youtube.com/watch?v=RVMHhtTqUxc)
+
+### Blockchain Technology
+Companies are using Blockchain for digital transactions in order to make them more efficient and secure
+
+- [Solidity](https://solidity.readthedocs.io) - *Language for implementing contracts*
+- [Mist](https://github.com/ethereum/mist) - *Used for strong Ethereum, sending transactions & contracts*
+- [Coinbase API](https://developers.coinbase.com/) - *Blochain devs can easily build apps and integrate Bitcoin*
+
+ **Resources**:
+- Youtube Videos
+  - [Learning Solidity](https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
+  - [Coinbase API Tutorial](https://www.youtube.com/watch?v=Sq_neUUm2u4&list=PLvHPbUS6M16AguxGDk0IFAMhn5sQnXG2D)
+
+### Progrssive Web Apps (PWA)
+Progressive Web Apps are regular web apps but give the user a native app experience in terms of layout and functionality
+
+- Responsive to fit any form factor
+- Service workers for offline availability
+- App-like interactions
+- HTTPS
+- Reliable, Fast & Engaging
+
+ **Resources**:
+- Youtube Videos
+  - [Intro To Service Workers](https://www.youtube.com/watch?v=ksXwaWHCW6k)
+  - [PWA From Scratch](https://www.youtube.com/watch?v=gcx-3qi7t7c)
+
+### Web Assembly
+Assembly-like binary format for code that can be executed by web browsers. Can be generated from higher level languages like C/C++ & Rust.
+
+- Faster than JavaScript
+- Secure - Enforces same origin & security policies in the browser
+- Open & debuggable
+
+ **Resources**:
+- Docs
+  - [Developer's Guide To Web Assembly](https://webassembly.org/getting-started/developers-guide/)
+
+## Contributing
+If you would like to add quality resources to this guide, open a pull request. All I ask you is to follow the way I've been linking resources in this guide.
