@@ -320,7 +320,7 @@ It is becoming a necessity to learn a JS front-end framework
 
 **Resources**:
 - Youtube Videos
-  - [React Crash Course](https://www.youtube.com/watch?v=A71aqufiNtQ)
+  - [React Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A)
   - [Vue.js In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y)
   - [Angular In 60 Minutes](https://www.youtube.com/watch?v=KhzGSHNhnbI)
 - Articles
