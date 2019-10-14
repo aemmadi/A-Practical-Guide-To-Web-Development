@@ -63,7 +63,8 @@ The layout of this guide is borrowed from [Traversy Media's Web Development Guid
   - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 - Articles
   - [Medium](https://medium.com/)
-- Curriculum-like Learning
+- Curriculum-like Learning / Free resources
+  - [GitHub Student Developer](https://education.github.com/pack)
   - [FreeCodeCamp](https://www.freecodecamp.org/)
 - Reddit
   - [r/learnprogramming](https://reddit.com/r/learnprogramming)
